@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE SapRequest SYSTEM "file:/appl/web/tomcat4/config/wwwprx/webapps/instar/dtd/SapRequest.dtd">
+<SapRequest ForwardCount="0">
+   <Requester>
+      <Login>FM</Login>
+      <Password>XXXXXXX</Password>
+   </Requester>
+   <Action>addSap</Action>
+   <Agent>Sap</Agent>
+   <TransactionId>96e9ea721402a8ac6c7345</TransactionId>
+   <Data>
+      <Requester>
+         <Login>tr0001</Login>
+         <SystemName>Instar</SystemName>
+      </Requester>
+   </Data>
+   <Data>
+      <Sap>
+         <CustId>545549</CustId>
+         <PremiseId>2153095</PremiseId>
+         <Service>MIS</Service>
+         <ServiceAccess>PL</ServiceAccess>
+         <ServiceSpeedStr>T1</ServiceSpeedStr>
+         <LinkProtocol>PPP</LinkProtocol>
+         <MCN>123123</MCN>
+         <GRC>123</GRC>
+         <SOC>12</SOC>
+         <AcctBillerCode>UP</AcctBillerCode>
+         <ContractNumber>23523423</ContractNumber>
+         <TransportNetwork>AT&amp;T</TransportNetwork>
+         <ServiceOptionList>
+            <ServiceOption>
+               <OptionName>Basic</OptionName>
+               <SvcStatus>PRINCIPAL</SvcStatus>
+            </ServiceOption>
+            <ServiceOption>
+               <OptionName>Customer Usage Reports</OptionName>
+               <SvcStatus>PRINCIPAL</SvcStatus>
+            </ServiceOption>
+         </ServiceOptionList>
+         <NOC>BGTNMOBUA04</NOC>
+         <AccessArrangement>BASELINE</AccessArrangement>
+         <CustAccess>
+            <CustAccessCkt>DHEC.79273.801.ATI</CustAccessCkt>
+            <Ioc1>DHEC.79273.801.ATI</Ioc1>
+         </CustAccess>
+         <Scrambling>N</Scrambling>
+         <ServiceFacilityAccount>
+            <MCN>123123</MCN>
+            <GRC>123</GRC>
+            <SOC>12</SOC>
+         </ServiceFacilityAccount>
+         <ArPtniiName>n54ny404me3</ArPtniiName>
+         <IntendedRoutingProtocol>STATIC</IntendedRoutingProtocol>
+         <IPVersion>v4/v6</IPVersion>
+         <V6IntendedRoutingProtocol>STATIC</V6IntendedRoutingProtocol>
+         <WanIpv4Exception>Y</WanIpv4Exception>
+      </Sap>
+   </Data>
+</SapRequest>
+
+
+
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE SapRequest SYSTEM "file:/appl/web/tomcat4/config/wwwprx/webapps/instar/dtd/SapRequest.dtd">
+<SapRequest ForwardCount="0">
+   <Requester>
+      <Login>FM</Login>
+      <Password>XXXXXXX</Password>
+   </Requester>
+   <Action>addSap</Action>
+   <Agent>Sap</Agent>
+   <TransactionId>96e9ea721405a9f32cef</TransactionId>
+   <Data>
+      <Requester>
+         <Login>tr0001</Login>
+         <SystemName>Instar</SystemName>
+      </Requester>
+   </Data>
+   <Data>
+      <Sap>
+         <CustId>544033</CustId>
+         <PremiseId>2151871</PremiseId>
+         <Service>MIS</Service>
+         <ServiceAccess>PL</ServiceAccess>
+         <ServiceSpeedStr>T1</ServiceSpeedStr>
+         <LinkProtocol>PPP</LinkProtocol>
+         <MCN>VEENALAB</MCN>
+         <GRC>111</GRC>
+         <SOC>11</SOC>
+         <AcctBillerCode>UP</AcctBillerCode>
+         <ContractNumber>albmacd</ContractNumber>
+         <TransportNetwork>AT&amp;T</TransportNetwork>
+         <ServiceOptionList>
+            <ServiceOption>
+               <OptionName>Basic</OptionName>
+               <SvcStatus>PRINCIPAL</SvcStatus>
+            </ServiceOption>
+            <ServiceOption>
+               <OptionName>Customer Usage Reports</OptionName>
+               <SvcStatus>PRINCIPAL</SvcStatus>
+            </ServiceOption>
+         </ServiceOptionList>
+         <NOC>BGTNMOBUA04</NOC>
+         <AccessArrangement>BASELINE</AccessArrangement>
+         <CustAccess>
+            <Ioc1>dhec.019220..ati</Ioc1>
+         </CustAccess>
+         <Scrambling>N</Scrambling>
+         <ServiceFacilityAccount>
+            <MCN>VEENALAB</MCN>
+            <GRC>222</GRC>
+            <SOC>22</SOC>
+         </ServiceFacilityAccount>
+         <ArPtniiName>cb1ma402me9</ArPtniiName>
+         <IntendedRoutingProtocol>STATIC</IntendedRoutingProtocol>
+         <IPVersion>v4</IPVersion>
+      </Sap>
+   </Data>
+</SapRequest>
+
+
+
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE SapRequest SYSTEM "file:/C:/lpp-dev/instar/IPDTest/config/dtd/SapRequest.dtd">
+<SapRequest ForwardCount="0">
+   <Requester>
+      <Login>FM</Login>
+      <Password>XXXXXXX</Password>
+   </Requester>
+   <Action>addSap</Action>
+   <Agent>Sap</Agent>
+   <TransactionId>824884c13f42dcdf8110</TransactionId>
+   <Data>
+      <Requester>
+         <Login>tr0001</Login>
+         <SystemName>Instar</SystemName>
+      </Requester>
+   </Data>
+   <Data>
+      <Sap>
+         <CustId>304468</CustId>
+         <PremiseId>1033201</PremiseId>
+         <Service>MIS</Service>
+         <ServiceAccess>PL</ServiceAccess>
+         <ServiceSpeedStr>T1</ServiceSpeedStr>
+         <LinkProtocol>PPP</LinkProtocol>
+         <MCN>850510</MCN>
+         <GRC>03F</GRC>
+         <SOC>UM</SOC>
+         <AcctBillerCode>UP</AcctBillerCode>
+         <ContractNumber>34345</ContractNumber>
+         <TransportNetwork>AT&amp;T</TransportNetwork>
+         <ServiceOptionList>
+            <ServiceOption>
+               <OptionName>Basic</OptionName>
+               <SvcStatus>PRINCIPAL</SvcStatus>
+            </ServiceOption>
+            <ServiceOption>
+               <OptionName>Customer Usage Reports</OptionName>
+               <SvcStatus>PRINCIPAL</SvcStatus>
+            </ServiceOption>
+         </ServiceOptionList>
+         <NOC>BGTNMOBUA04</NOC>
+         <AccessArrangement>LEC ACCESS</AccessArrangement>
+         <CustAccess>
+         </CustAccess>
+         <Scrambling>N</Scrambling>
+         <ServiceFacilityAccount>
+            <MCN>850510</MCN>
+            <GRC>MAH</GRC>
+            <SOC>UM</SOC>
+         </ServiceFacilityAccount>
+         <IntendedRoutingProtocol>STATIC</IntendedRoutingProtocol>
+         <IPVersion>v4</IPVersion>
+      </Sap>
+   </Data>
+</SapRequest>
